@@ -11,8 +11,6 @@ This project provides a user-friendly graphical interface (GUI) for the incredib
 
 **Original Project Link:** [https://github.com/zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 
-[A screenshot of the application interface would go here.]
-
 ---
 
 ## 2. Motivation ("Why This GUI?")
